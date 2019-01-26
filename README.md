@@ -1,5 +1,5 @@
 # PlymotionAR
-![PlymotionAR icon](https://github.com/MarevoVision/PlymotionAR/blob/master/PlymotionAR-icon_github.png?raw=true)
+![PlymotionAR icon](https://github.com/MarevoVision/PlymotionAR/blob/master/Plymotion-icon-github.png?raw=true)
 
 PlymotionAR.
 
